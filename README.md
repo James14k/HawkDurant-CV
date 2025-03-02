@@ -1,6 +1,4 @@
-![alt text](banner.jpg)
-
-<img src="/HawkDurant-Cv/HawkDurant-Cv/raw/main/banner.jpg" alt="alt text" style="max-width: 100%;">
+<img src="/" alt="alt text" style="max-width: 100%;">
 <br><br>
 # <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Nice to See You</div>
 
