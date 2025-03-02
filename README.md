@@ -46,14 +46,3 @@ I'm Hawk from Chile. After more than 5 years of experience as an electrical tech
 ---
 
 </br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HawkDurant-dev&theme=radical" alt="GitHub Trophies">
-  </a>
-
-  <br><br>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HawkDurant-dev&theme=radical)](https://git.io/streak-stats)
-  <br></br></br>
-  ![Hawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=HawkDurant-dev&show_icons=true&theme=radical)
-</div>
